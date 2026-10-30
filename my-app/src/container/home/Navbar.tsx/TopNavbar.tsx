@@ -35,7 +35,7 @@ export const TopNavbar = () => {
     const homenavbar: { [key: string]: string } = {
         HOME: "Home",
         EAI: "EAI",
-        USERS: "Users"
+        USERS: "Users1"
     }
 
     const Icons: any = {
